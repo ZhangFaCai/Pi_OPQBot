@@ -10,7 +10,7 @@
 
 1.⚠️ 授权登陆此网站换取Token [Gitter Developer](https://developer.gitter.im/apps)
 
-2.下载二进制包，树莓派选择linux_arm.tar.gz包下载。[下载地址](https://gitter.im/OPQBOT/OPQ)。也可下载apk文件夹内压缩包，不过不保证保持最新。（3.0.8版本）
+2.下载二进制包，树莓派选择linux_arm.tar.gz包下载。[下载地址](https://gitter.im/OPQBOT/OPQ)。也可下载apk文件夹内压缩包，不过不保证保持最新。（3.1.0版本）
 
 3.解压缩，**填写配置文件CoreConf.conf 配置Token**
 
