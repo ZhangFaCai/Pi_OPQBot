@@ -25,7 +25,7 @@
   Token = ""
 ~~~~
 
-4.进入解压缩之后文件夹内执行命令**`./IOTQQ` 默认开启8888端口作为WebSokcet/WebApi的服务端口**
+4.进入解压缩之后文件夹内执行命令`./IOTQQ` 默认开启8888端口作为WebSokcet/WebApi的服务端口
 
 ###### 首次登陆会拉取部分脚本并有详细输出 当出现 Everything is ok! 说明服务就绪 获取登陆二维码 访问Url http://IP:PORT/v1/Login/GetQRcode 扫码登陆即可
 
