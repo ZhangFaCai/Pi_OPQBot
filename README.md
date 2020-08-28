@@ -30,3 +30,4 @@
 ###### 首次登陆会拉取部分脚本并有详细输出 当出现 Everything is ok! 说明服务就绪 获取登陆二维码 访问Url http://IP:PORT/v1/Login/GetQRcode 扫码登陆即可
 
 ![login](https://github.com/ZhangFaCai/Pi_OPQBot/blob/master/img/login.png)
+
